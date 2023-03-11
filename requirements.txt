@@ -1,0 +1,8 @@
+django>=3.2.3<3.3
+psycopg2-binary==2.9.5
+uWSGI>=2.0.19,<2.1
+djoser==2.1.0
+djangorestframework
+djangorestframework_simplejwt
+social-auth-app-django
+django-cors-headers
