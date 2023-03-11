@@ -6,3 +6,4 @@ djangorestframework
 djangorestframework_simplejwt
 social-auth-app-django
 django-cors-headers
+drf-yasg
